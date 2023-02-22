@@ -1,0 +1,13 @@
+.header {
+    background-color: yellow;
+    text-align: center;
+}
+
+.images {
+    height: auto;
+    text-align: center;
+}
+
+img {
+    width: 500px;
+}
