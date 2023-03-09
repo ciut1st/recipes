@@ -8,3 +8,5 @@ Skills that I learnt from this project:
 - HTML tags such as list, unordered, and ordered
 - How to link another website to my own
 - How to put an image on my website
+
+Live: https://ciut1st.github.io/recipes/
